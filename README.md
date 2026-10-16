@@ -317,8 +317,11 @@ Through this project, I practiced loading and cleaning timestamped financial dat
 
 ## 👨‍💻 Author
 
-**Nadeem Ahamad**  
-Aspiring Data Analyst | Python, SQL, Excel & Power BI | Data Science and Machine Learning Enthusiast  
+Nadeem Ahamad
+
+Data Analytics / Data Science project developed in association with Hackveda Solutions Private Limited Internship.
+
+Focus: Intraday Stock Market Analysis · Time-Series Analytics · Financial Data Visualization · Python · Streamlit · Power BI 
 GitHub: [@nadeemahamad007](https://github.com/nadeemahamad007)
 
 **Project focus:** Intraday Stock Analysis · Time-Series Analytics · Financial Data Visualization · Python · Streamlit · Power BI
