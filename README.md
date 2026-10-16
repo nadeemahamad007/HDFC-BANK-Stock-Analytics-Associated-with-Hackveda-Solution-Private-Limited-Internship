@@ -161,11 +161,11 @@ The current implementation applies `pct_change()` to the chronologically sorted 
 
 The first image below is the actual Power BI dashboard screenshot. The remaining images show analytical charts from the Python/Streamlit side of the project. These are kept separate so the README does not present Streamlit visuals as Power BI visuals or vice versa.
 
-### . Power BI Dashboard — Working Demo
+### * . Power BI Dashboard — Working Demo
 
 Watch the video below to see the Power BI dashboard in action, including interactive visuals, KPI cards, stock price trends, trading volume, and date filtering.
 
-**Video file:** `Power BI Dashboard - Working Demo.mp4`
+🎥 **[Watch the Power BI Dashboard Demo](assets/Power%20BI%20Dashboard-Working%20Demo.mp4)**
 
 ### 1. Power BI dashboard overview
 
